@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
-![ScreenshotOne](./design/screenshotOne.png)
-![ScreenshotTwo](./design/screenshotTwo.png)
+![ScreenshotOne](./images/screenshotOne.png)
+![ScreenshotTwo](./images/screenshotTwo.png)
 
 ### Links
 
